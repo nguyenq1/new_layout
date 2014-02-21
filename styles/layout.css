@@ -22,3 +22,8 @@ article{
     clear:left;
     border:1px solid #000;
 }
+
+p, li, {
+    font-family: Helvetica;
+    fill: #220000;
+}
